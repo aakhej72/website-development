@@ -1,0 +1,25 @@
+<!DOCTYPE html>>
+<html>
+    <head>
+        <title>table</title>
+    </head>
+    <body>
+        <table border="5">
+            <tr>
+                <th>groceries</th>
+                <th>table</th>
+                <th>car</th>
+            </tr>
+            <tr>
+                <td>vegetables</td>
+                <td>chair</td>
+                <td>bugatti</td>
+            </tr>
+            <tr>
+                <td>fruits</td>
+                <td>books</td>
+                <td>bmw</td>
+            </tr>
+        </table>
+    </body>
+</html>
